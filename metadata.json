@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CommAI - コミュニケーション評価・コーチング",
+  "description": "AIとの対話を通じて、あなたのコミュニケーション能力（共感力、論理性、伝え方など）を多角的に分析・評価し、フィードバックを提供するトレーニングアプリです。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
